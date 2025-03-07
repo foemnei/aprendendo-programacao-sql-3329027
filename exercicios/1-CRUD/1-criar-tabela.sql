@@ -1,1 +1,3 @@
--- Crie uma nova tabela no banco de dados
+create table (terranossa
+cor da corda TEXT;
+titulo da corda TEXT)
